@@ -4,6 +4,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmini0601&show_icons=true&theme=radical)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 💡최근 블로그 글<br>
+[2023/3/27 - RDB와 NoSQL](https://jungmini-laboratory.tistory.com/8) <br>
+[2023/3/27 - 데이터베이스의 키](https://jungmini-laboratory.tistory.com/7) <br>
+[2023/3/27 - HTTP 상태 코드](https://jungmini-laboratory.tistory.com/6) <br>
 [2023/3/27 - 쿠키와 세션](https://jungmini-laboratory.tistory.com/5) <br>
 [2023/3/27 - 인터럽트란](https://jungmini-laboratory.tistory.com/4) <br>
 [2023/3/27 - 시스템 콜이란?](https://jungmini-laboratory.tistory.com/3) <br>

@@ -16,9 +16,10 @@ for idx, feed in enumerate(rss_feed['entries']):
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """
-코드 깎는 청년 김정민입니다! 😁 <br>
+프로그래밍을 수련하는 김정민입니다. 😁 <br>
+가장 좋아하는 말은 **실전 없으면 증명이 없고 증명이 없으면 신용이 없고 신용이 없으면 존경받을 수 없다** 입니다 <br>
 자동화 기술, 좋은 성능, 변경 하기 쉬운 코드 작성에 관심이 많고 실험중 입니다. 😍🧪 <br>
-🔥몰입력 있는 성격🔥을 가지고 있으며 유연하게 사고하려고 노력합니다. <br>
+🔥몰입력 있는 성격🔥을 가지고 있으며 실력을 올리기 위해서 꾸준히 노력하고 있습니다. <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmini0601&show_icons=true&theme=radical)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>

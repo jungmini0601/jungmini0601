@@ -7,6 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmini0601&show_icons=true&theme=radical)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 💡최근 블로그 글<br>
+[2023/4/6 - 의존성을 손쉽게 파악하는 꿀팁](https://jungmini-laboratory.tistory.com/27) <br>
 [2023/4/5 - 소규모 인원 Git branch 관리 전략 노하우 공유](https://jungmini-laboratory.tistory.com/26) <br>
 [2023/4/3 - 솔직함  벤치마킹 적극성에 관하여 개인적인 생각 정리](https://jungmini-laboratory.tistory.com/25) <br>
 [2023/4/1 - 21살~26살 개발자가 되기 위해 노력했던 인생 회고 (유지보수중)](https://jungmini-laboratory.tistory.com/16) <br>

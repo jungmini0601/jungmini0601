@@ -6,7 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmini0601&show_icons=true&theme=radical)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
-<h3>💡최근 블로그 글</h3>
+<h3>✏️ 최근 블로그 글</h3> 
+
 [2023/4/8 - 자바17 enum과 enhanced switch를 이용한 에러 관리](https://jungmini-laboratory.tistory.com/30) <br>
 [2023/4/8 - 당신의 1일 커밋을 도와줄 유용한 잡기술](https://jungmini-laboratory.tistory.com/29) <br>
 [2023/4/8 - 내가 생각하는 효율적인 테스트 전략](https://jungmini-laboratory.tistory.com/28) <br>

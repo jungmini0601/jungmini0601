@@ -8,6 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/4/9 - docker ubuntu systemctl 에러 정리](https://jungmini-laboratory.tistory.com/31) <br>
 [2023/4/8 - 자바17 enum과 enhanced switch를 이용한 에러 관리](https://jungmini-laboratory.tistory.com/30) <br>
 [2023/4/8 - 당신의 1일 커밋을 도와줄 유용한 잡기술](https://jungmini-laboratory.tistory.com/29) <br>
 [2023/4/8 - 내가 생각하는 효율적인 테스트 전략](https://jungmini-laboratory.tistory.com/28) <br>
@@ -17,4 +18,3 @@
 [2023/4/1 - 21살~26살 개발자가 되기 위해 노력했던 인생 회고 (유지보수중)](https://jungmini-laboratory.tistory.com/16) <br>
 [2023/3/28 - BeanValidation RestControllerAdvice를 이용하여 디버깅 하기 쉬운 응답 만들기](https://jungmini-laboratory.tistory.com/15) <br>
 [2023/3/28 - Transactional(readonly=true)는 진짜 빠를까?](https://jungmini-laboratory.tistory.com/14) <br>
-[2023/3/27 - GithubActions 403에러 뜨는 경우 해결 방법](https://jungmini-laboratory.tistory.com/2) <br>

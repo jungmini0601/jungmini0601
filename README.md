@@ -8,7 +8,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 <h3>✏️ 최근 블로그 글</h3> 
 
-[2023/4/11 - 부하테스트 선정 요령](https://jungmini-laboratory.tistory.com/32) <br>
+[2023/4/11 - 운영 상황Connection Pool에서 발생할 수 있는 문제점 분석](https://jungmini-laboratory.tistory.com/34) <br>
+[2023/4/11 - 복습 열심히 하자.](https://jungmini-laboratory.tistory.com/33) <br>
+[2023/4/11 - 부하테스트 API 선정 요령](https://jungmini-laboratory.tistory.com/32) <br>
 [2023/4/9 - docker ubuntu systemctl 에러 정리](https://jungmini-laboratory.tistory.com/31) <br>
 [2023/4/8 - 자바17 enum과 enhanced switch를 이용한 에러 관리](https://jungmini-laboratory.tistory.com/30) <br>
 [2023/4/8 - 당신의 1일 커밋을 도와줄 유용한 잡기술](https://jungmini-laboratory.tistory.com/29) <br>
@@ -16,5 +18,3 @@
 [2023/4/6 - 의존성을 손쉽게 파악하는 꿀팁](https://jungmini-laboratory.tistory.com/27) <br>
 [2023/4/5 - 소규모 인원 Git branch 관리 전략 노하우 공유](https://jungmini-laboratory.tistory.com/26) <br>
 [2023/4/3 - 솔직함  벤치마킹 적극성에 관하여 개인적인 생각 정리](https://jungmini-laboratory.tistory.com/25) <br>
-[2023/4/1 - 21살~26살 개발자가 되기 위해 노력했던 인생 회고 (유지보수중)](https://jungmini-laboratory.tistory.com/16) <br>
-[2023/3/28 - BeanValidation RestControllerAdvice를 이용하여 디버깅 하기 쉬운 응답 만들기](https://jungmini-laboratory.tistory.com/15) <br>

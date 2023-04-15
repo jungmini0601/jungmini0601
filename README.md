@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 <h3>✏️ 최근 블로그 글</h3> 
 
-[2023/4/13 - 동시성 제어시 고려해 볼 수 있는 옵션](https://jungmini-laboratory.tistory.com/35) <br>
+[2023/4/13 - 동시성 제어시 고려해 볼 수 있는 옵션 (아직 정확하지 않음)](https://jungmini-laboratory.tistory.com/35) <br>
 [2023/4/11 - 운영 상황Connection Pool에서 발생할 수 있는 문제점 분석](https://jungmini-laboratory.tistory.com/34) <br>
 [2023/4/11 - 복습 열심히 하자.](https://jungmini-laboratory.tistory.com/33) <br>
 [2023/4/11 - 부하테스트 API 선정 요령](https://jungmini-laboratory.tistory.com/32) <br>

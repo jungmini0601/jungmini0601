@@ -13,7 +13,7 @@
 [2023/4/18 - WSL2 메모리 이슈](https://jungmini-laboratory.tistory.com/39) <br>
 [2023/4/18 - 프로그래머스 최고의 집합](https://jungmini-laboratory.tistory.com/38) <br>
 [2023/4/16 - 기초가 부족하다.](https://jungmini-laboratory.tistory.com/37) <br>
-[2023/4/15 - 제 글을 믿지 마세요](https://jungmini-laboratory.tistory.com/notice/36) <br>
+[2023/4/15 - 제 글을 믿지 말아주세요](https://jungmini-laboratory.tistory.com/notice/36) <br>
 [2023/4/13 - 동시성 제어시 고려해 볼 수 있는 옵션 정리 MySQL8, Redis](https://jungmini-laboratory.tistory.com/35) <br>
 [2023/4/11 - 운영 상황 Connection Pool에서 발생할 수 있는 문제점 분석](https://jungmini-laboratory.tistory.com/34) <br>
 [2023/4/11 - 복습 열심히 하자.](https://jungmini-laboratory.tistory.com/33) <br>

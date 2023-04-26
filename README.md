@@ -8,6 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/4/25 - 간편 송금 API 코드 리뷰 정리](https://jungmini-laboratory.tistory.com/42) <br>
 [2023/4/18 - Stream 사용시 주의 해야 할 개념](https://jungmini-laboratory.tistory.com/41) <br>
 [2023/4/18 - getter setter를 쓰면 더 느려질까?](https://jungmini-laboratory.tistory.com/40) <br>
 [2023/4/18 - WSL2 메모리 이슈](https://jungmini-laboratory.tistory.com/39) <br>
@@ -17,4 +18,3 @@
 [2023/4/13 - 동시성 제어시 고려해 볼 수 있는 옵션 정리 MySQL8, Redis](https://jungmini-laboratory.tistory.com/35) <br>
 [2023/4/11 - 운영 상황 Connection Pool에서 발생할 수 있는 문제점 분석](https://jungmini-laboratory.tistory.com/34) <br>
 [2023/4/11 - 복습 열심히 하자.](https://jungmini-laboratory.tistory.com/33) <br>
-[2023/4/11 - 부하테스트 API 선정 요령](https://jungmini-laboratory.tistory.com/32) <br>

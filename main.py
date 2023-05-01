@@ -28,9 +28,10 @@ markdown_text = """
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
 
 <h3> 커뮤니티 <h3>
-[위클리 아카데미](https://www.weekly.ac/)
-[saramdle](https://discord.gg/aupDwXxfnc)
-[Eric](https://discord.com/invite/7qNA6tG)
+
+[위클리 아카데미](https://www.weekly.ac/) <br>
+[saramdle](https://discord.gg/aupDwXxfnc) <br>
+[Eric](https://discord.com/invite/7qNA6tG) <br>
 
 <h3>✏️ 최근 블로그 글</h3> 
 

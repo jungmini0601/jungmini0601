@@ -35,6 +35,7 @@ jobs:
         git config --local user.name "jungmini0601"
         git stash
         git pull
-        git stash pop  
+        git stash pop
+        git add .
         git commit -m "블로그 공부"
         git push

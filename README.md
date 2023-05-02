@@ -18,6 +18,9 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/1 - 무한 복습 체제 돌입](https://jungmini-laboratory.tistory.com/46) <br>
+[2023/5/1 - 프로그래머스 등굣길](https://jungmini-laboratory.tistory.com/45) <br>
+[2023/5/1 - 프로그래머스 단어 변환](https://jungmini-laboratory.tistory.com/44) <br>
 [2023/4/29 - 휴식의 중요성](https://jungmini-laboratory.tistory.com/43) <br>
 [2023/4/25 - 간편 송금 API 코드 리뷰 정리](https://jungmini-laboratory.tistory.com/42) <br>
 [2023/4/18 - Stream 사용시 주의 해야 할 개념](https://jungmini-laboratory.tistory.com/41) <br>
@@ -25,6 +28,3 @@
 [2023/4/18 - WSL2 메모리 이슈](https://jungmini-laboratory.tistory.com/39) <br>
 [2023/4/18 - 프로그래머스 최고의 집합](https://jungmini-laboratory.tistory.com/38) <br>
 [2023/4/16 - 기초가 부족하다.](https://jungmini-laboratory.tistory.com/37) <br>
-[2023/4/15 - 제 글을 믿지 말아주세요](https://jungmini-laboratory.tistory.com/notice/36) <br>
-[2023/4/13 - 동시성 제어시 고려해 볼 수 있는 옵션 정리 MySQL8, Redis](https://jungmini-laboratory.tistory.com/35) <br>
-[2023/4/11 - 운영 상황 Connection Pool에서 발생할 수 있는 문제점 분석](https://jungmini-laboratory.tistory.com/34) <br>

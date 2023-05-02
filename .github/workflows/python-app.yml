@@ -31,12 +31,10 @@ jobs:
         python main.py
     - name: Update README.md file
       run: | 
-        git stash
-        git pull
-        git stash pop
-        git add .
-        git diff
         git config --local user.email "jungmini0601@gmail.com"
         git config --local user.name "jungmini0601"
+        git stash
+        git pull
+        git stash pop  
         git commit -m "블로그 공부"
         git push

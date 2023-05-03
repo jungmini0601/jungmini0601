@@ -18,6 +18,7 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/2 - 안 좋은 습관 발견](https://jungmini-laboratory.tistory.com/48) <br>
 [2023/5/2 - 레디스 분산락 레디스가 터지면 어떻게 해야 하는가?(연구 중)](https://jungmini-laboratory.tistory.com/47) <br>
 [2023/5/1 - 프로그래머스 등굣길](https://jungmini-laboratory.tistory.com/45) <br>
 [2023/5/1 - 프로그래머스 단어 변환](https://jungmini-laboratory.tistory.com/44) <br>
@@ -27,4 +28,3 @@
 [2023/4/18 - getter setter를 쓰면 더 느려질까?](https://jungmini-laboratory.tistory.com/40) <br>
 [2023/4/18 - WSL2 메모리 이슈](https://jungmini-laboratory.tistory.com/39) <br>
 [2023/4/18 - 프로그래머스 최고의 집합](https://jungmini-laboratory.tistory.com/38) <br>
-[2023/4/16 - 기초가 부족하다.](https://jungmini-laboratory.tistory.com/37) <br>

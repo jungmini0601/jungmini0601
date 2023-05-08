@@ -18,6 +18,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/7 - Map 성능 비교](https://jungmini-laboratory.tistory.com/52) <br>
+[2023/5/7 - List 성능 비교](https://jungmini-laboratory.tistory.com/51) <br>
 [2023/5/6 - Set 클래스 성능 비교](https://jungmini-laboratory.tistory.com/50) <br>
 [2023/5/5 - String Builder Vs String 성능 관점 실험](https://jungmini-laboratory.tistory.com/49) <br>
 [2023/5/2 - 안 좋은 습관 발견](https://jungmini-laboratory.tistory.com/48) <br>
@@ -26,5 +28,3 @@
 [2023/5/1 - 프로그래머스 단어 변환](https://jungmini-laboratory.tistory.com/44) <br>
 [2023/4/29 - 휴식의 중요성](https://jungmini-laboratory.tistory.com/43) <br>
 [2023/4/25 - 간편 송금 API 코드 리뷰 정리](https://jungmini-laboratory.tistory.com/42) <br>
-[2023/4/18 - Stream 사용시 주의 해야 할 개념](https://jungmini-laboratory.tistory.com/41) <br>
-[2023/4/18 - getter setter를 쓰면 더 느려질까?](https://jungmini-laboratory.tistory.com/40) <br>

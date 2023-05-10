@@ -7,8 +7,6 @@ MAX_POST_NUM = 10
 
 latest_blog_post_list = ""
 
-MAX_POST_NUM = 10
-
 for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
@@ -16,18 +14,26 @@ for idx, feed in enumerate(rss_feed['entries']):
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """
-안녕하세요 주니어 백엔드 엔지니어 김정민입니다. 😁 <br>
-다양한 의견속에서 배우는 것을 좋아하며 가능한 많은의견을 참고하기 위해 기술공유 커뮤니티에서 적극 활동하고 있습니다.<br>
-처음부터 잘 되는 일은 없다고 생각하며 빠르게 발전하기 위해서 주변에 피드백을 요청드리는 것을 좋아합니다. <br>
-경험을 통해 성장하는 방식을 지향하며 그와 동시에 이론적 성숙함을 챙기기 위해 꾸준히 독서를 하고 있습니다. <br>
-가장 좋아하는 말은 **실전이 없으면 증명이 없고 증명이 없으면 신용이 없고 신용이 없으면 존경받을 수 없다**. 입니다. <br>
-주변 사람들로부터 신뢰받는 것을 좋아하며 함께 했을 때 즐거웠던 사람으로 남고 싶습니다. <br>
-저와 나누고 싶으신 이야기가 있으시다면 언제든지 편하게 메일 주셔요 감사합니다.<br>
+<h1>🙋자기소개!</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmini0601&show_icons=true&theme=radical)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kJungmin)](https://solved.ac/kJungmin/)<br><br>
+제가 가진 시각과 방법론 뿐만 아니라, **다른 분들이 가지고 있는 경험과 지식도 적극 수용하며 항상 배우고자 노력 합니다.**
 
-<h3> 커뮤니티 <h3>
+이를 위해 위클리 아카데미라는 기술공유 커뮤니티에서  활동하며 의견을 교류하고 있습니다.
+
+일을 시작할 때부터 모든 것이 순조롭게 이루어지는 일은 드물다고 생각합니다. 
+
+그래서, **일하는 방식에 대한 피드백을 수시로 받아들이고 빠르게 발전하려고 노력**합니다. 
+
+**경험과 이론을 통한 성장을 지향**합니다.
+
+제가 지향하는 목표는 함께 일할 때 **즐거우며 신뢰받는 사람이 되는 것**입니다.
+
+저와 나누고 싶으신 대화가 있으시다면 언제든지 메일주세요! 감사합니다.
+
+
+![](https://github-profile-trophy.vercel.app/?username=jungmini0601&theme=flat&no-frame=true&margin-w=30)
+
+<h3>  👨‍👨‍👦‍👦 커뮤니티 <h3>
 
 [위클리 아카데미](https://www.weekly.ac/) <br>
 [saramdle](https://discord.gg/aupDwXxfnc) <br>

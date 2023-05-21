@@ -26,6 +26,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/21 - 브라우저에 URL을 치면 어떤 일이 발생할까?](https://jungmini-laboratory.tistory.com/58) <br>
+[2023/5/20 - 부족한 부분은 보완하면 된다.](https://jungmini-laboratory.tistory.com/57) <br>
 [2023/5/19 - Java, Kotlin, MySQL8, Redis, JPA 동시성 제어 완벽 이해 해보기](https://jungmini-laboratory.tistory.com/56) <br>
 [2023/5/18 - 좋은 글을 쓰자](https://jungmini-laboratory.tistory.com/55) <br>
 [2023/5/7 - Map 성능 비교](https://jungmini-laboratory.tistory.com/52) <br>
@@ -34,5 +36,3 @@
 [2023/5/5 - String Builder Vs String 성능 관점 실험](https://jungmini-laboratory.tistory.com/49) <br>
 [2023/5/2 - 레디스 분산락 레디스가 터지면 어떻게 해야 하는가?(연구 중)](https://jungmini-laboratory.tistory.com/47) <br>
 [2023/5/1 - 프로그래머스 등굣길](https://jungmini-laboratory.tistory.com/45) <br>
-[2023/5/1 - 프로그래머스 단어 변환](https://jungmini-laboratory.tistory.com/44) <br>
-[2023/4/29 - 휴식의 중요성](https://jungmini-laboratory.tistory.com/43) <br>

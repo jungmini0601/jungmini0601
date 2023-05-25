@@ -7,9 +7,11 @@
 
 제가 가진 기술과 지식을 통해 주변에 도움을 주는 것을 좋아합니다.
 
-제가 지향하는 목표는 함께 일할 때 **즐거우며 신뢰받는 사람이 되는 것**입니다.
+제가 지향하는 목표는 함께할 때 **즐거우며 신뢰받는 사람이 되는 것**입니다.
 
 ![](https://github-profile-trophy.vercel.app/?username=jungmini0601&theme=flat&no-frame=true&margin-w=30)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/jungmini0601)
 
 <h3>  👨‍👨‍👦‍👦 커뮤니티 & 📚 Study<h3>
 
@@ -18,6 +20,9 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/25 - 코틀린으로 Deque 구현하기](https://jungmini-laboratory.tistory.com/66) <br>
+[2023/5/25 - 코틀린으로 큐 구현하기](https://jungmini-laboratory.tistory.com/65) <br>
+[2023/5/25 - 코틀린으로 스택 구현하기](https://jungmini-laboratory.tistory.com/64) <br>
 [2023/5/24 - 코틀린으로 이중 연결리스트 구현하기](https://jungmini-laboratory.tistory.com/63) <br>
 [2023/5/23 - 코틀린으로 연결 리스트 구현하기](https://jungmini-laboratory.tistory.com/62) <br>
 [2023/5/22 - 코틀린으로 동적 배열 구현하기](https://jungmini-laboratory.tistory.com/61) <br>
@@ -25,6 +30,3 @@
 [2023/5/21 - 트랜잭션 이해하기](https://jungmini-laboratory.tistory.com/59) <br>
 [2023/5/21 - 브라우저에 URL을 치면 어떤 일이 발생할까?](https://jungmini-laboratory.tistory.com/58) <br>
 [2023/5/19 - Java, Kotlin, MySQL8, Redis, JPA 동시성 제어 완벽 이해 해보기](https://jungmini-laboratory.tistory.com/56) <br>
-[2023/5/7 - Map 성능 비교](https://jungmini-laboratory.tistory.com/52) <br>
-[2023/5/7 - List 성능 비교](https://jungmini-laboratory.tistory.com/51) <br>
-[2023/5/6 - Set 클래스 성능 비교](https://jungmini-laboratory.tistory.com/50) <br>

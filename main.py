@@ -22,9 +22,11 @@ markdown_text = """
 
 제가 가진 기술과 지식을 통해 주변에 도움을 주는 것을 좋아합니다.
 
-제가 지향하는 목표는 함께 일할 때 **즐거우며 신뢰받는 사람이 되는 것**입니다.
+제가 지향하는 목표는 함께할 때 **즐거우며 신뢰받는 사람이 되는 것**입니다.
 
 ![](https://github-profile-trophy.vercel.app/?username=jungmini0601&theme=flat&no-frame=true&margin-w=30)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/jungmini0601)
 
 <h3>  👨‍👨‍👦‍👦 커뮤니티 & 📚 Study<h3>
 

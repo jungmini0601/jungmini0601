@@ -20,6 +20,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/25 - 핵심 코틀린 프로그래밍 연습문제 풀이 2장 변수와 식 문](https://jungmini-laboratory.tistory.com/68) <br>
+[2023/5/25 - 현대 시스템 아키텍처 발전 과정 정리](https://jungmini-laboratory.tistory.com/67) <br>
 [2023/5/25 - 코틀린으로 Deque 구현하기](https://jungmini-laboratory.tistory.com/66) <br>
 [2023/5/25 - 코틀린으로 큐 구현하기](https://jungmini-laboratory.tistory.com/65) <br>
 [2023/5/25 - 코틀린으로 스택 구현하기](https://jungmini-laboratory.tistory.com/64) <br>
@@ -28,5 +30,3 @@
 [2023/5/22 - 코틀린으로 동적 배열 구현하기](https://jungmini-laboratory.tistory.com/61) <br>
 [2023/5/21 - 기본키와 클러스터링 인덱스 이해하기](https://jungmini-laboratory.tistory.com/60) <br>
 [2023/5/21 - 트랜잭션 이해하기](https://jungmini-laboratory.tistory.com/59) <br>
-[2023/5/21 - 브라우저에 URL을 치면 어떤 일이 발생할까?](https://jungmini-laboratory.tistory.com/58) <br>
-[2023/5/19 - Java, Kotlin, MySQL8, Redis, JPA 동시성 제어 완벽 이해 해보기](https://jungmini-laboratory.tistory.com/56) <br>

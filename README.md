@@ -20,6 +20,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/28 - 좋은 개발자란 무엇일까? (feat. 블로그)](https://jungmini-laboratory.tistory.com/70) <br>
+[2023/5/28 - 핵심 코틀린 프로그래밍 3장 연습문제 풀이](https://jungmini-laboratory.tistory.com/69) <br>
 [2023/5/25 - 핵심 코틀린 프로그래밍 연습문제 풀이 2장 변수와 식 문](https://jungmini-laboratory.tistory.com/68) <br>
 [2023/5/25 - 현대 시스템 아키텍처 발전 과정 정리](https://jungmini-laboratory.tistory.com/67) <br>
 [2023/5/25 - 코틀린으로 Deque 구현하기](https://jungmini-laboratory.tistory.com/66) <br>
@@ -28,5 +30,3 @@
 [2023/5/24 - 코틀린으로 이중 연결리스트 구현하기](https://jungmini-laboratory.tistory.com/63) <br>
 [2023/5/23 - 코틀린으로 연결 리스트 구현하기](https://jungmini-laboratory.tistory.com/62) <br>
 [2023/5/22 - 코틀린으로 동적 배열 구현하기](https://jungmini-laboratory.tistory.com/61) <br>
-[2023/5/21 - 기본키와 클러스터링 인덱스 이해하기](https://jungmini-laboratory.tistory.com/60) <br>
-[2023/5/21 - 트랜잭션 이해하기](https://jungmini-laboratory.tistory.com/59) <br>

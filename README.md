@@ -20,13 +20,13 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/5/30 - 프로토콜과 OSI 7layer](https://jungmini-laboratory.tistory.com/83) <br>
+[2023/5/30 - 네트워크, 인터넷, 인터넷의 동작 방식](https://jungmini-laboratory.tistory.com/82) <br>
+[2023/5/30 - 프로세스, 스레드, 멀티태스킹, 멀티스레딩, 멀티프로세싱, 멀티프로그래밍 정리하기](https://jungmini-laboratory.tistory.com/81) <br>
+[2023/5/30 - MySQL 쿼리 실행 구조 이해 해보기](https://jungmini-laboratory.tistory.com/80) <br>
+[2023/5/30 - 이진 트리 개념 이해하기](https://jungmini-laboratory.tistory.com/79) <br>
+[2023/5/30 - 핵심 코틀린프로그래밍 연습문제 풀이 6장 제네릭](https://jungmini-laboratory.tistory.com/78) <br>
+[2023/5/30 - 핵심 코틀린 프로그래밍 5장 연습문제 풀이 예외](https://jungmini-laboratory.tistory.com/77) <br>
 [2023/5/29 - 코틀린으로 삽입 정렬 구현하기](https://jungmini-laboratory.tistory.com/76) <br>
 [2023/5/29 - 코틀린으로 선택 정렬 구현하기](https://jungmini-laboratory.tistory.com/75) <br>
 [2023/5/29 - 코틀린으로 버블 정렬 구현하기](https://jungmini-laboratory.tistory.com/74) <br>
-[2023/5/29 - 코틀린으로 Hash Table 구현하기](https://jungmini-laboratory.tistory.com/73) <br>
-[2023/5/29 - JVM(Java Virtual Machine) 이해하기](https://jungmini-laboratory.tistory.com/72) <br>
-[2023/5/29 - 핵심 코틀린 프로그래밍 4장 연습문제 풀이 클래스와 객체](https://jungmini-laboratory.tistory.com/71) <br>
-[2023/5/28 - 좋은 개발자란 무엇일까? (feat. 블로그)](https://jungmini-laboratory.tistory.com/70) <br>
-[2023/5/28 - 핵심 코틀린 프로그래밍 3장 연습문제 풀이 함수](https://jungmini-laboratory.tistory.com/69) <br>
-[2023/5/25 - 핵심 코틀린 프로그래밍 연습문제 풀이 2장 변수와 식 문](https://jungmini-laboratory.tistory.com/68) <br>
-[2023/5/25 - 현대 시스템 아키텍처 발전 과정 정리](https://jungmini-laboratory.tistory.com/67) <br>

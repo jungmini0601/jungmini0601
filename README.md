@@ -20,13 +20,13 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/1 - SQL 개념과 DDL](https://jungmini-laboratory.tistory.com/90) <br>
+[2023/6/1 - 코틀린 이진 탐색 트리 구현하기](https://jungmini-laboratory.tistory.com/89) <br>
+[2023/6/1 - 핵심 코틀린 프로그래밍 7장 연습 문제 풀이 널 가능성](https://jungmini-laboratory.tistory.com/88) <br>
+[2023/6/1 - CPU bound 그리고 IO bound, 스레드 개수 이해하기](https://jungmini-laboratory.tistory.com/87) <br>
 [2023/5/31 - 관계형 데이터베이스, 관계, 기본키, 외래키](https://jungmini-laboratory.tistory.com/86) <br>
 [2023/5/31 - 데이터 베이스 입문](https://jungmini-laboratory.tistory.com/85) <br>
 [2023/5/31 - Context Switching 정리](https://jungmini-laboratory.tistory.com/84) <br>
 [2023/5/30 - 프로토콜과 OSI 7layer](https://jungmini-laboratory.tistory.com/83) <br>
 [2023/5/30 - 네트워크, 인터넷, 인터넷의 동작 방식](https://jungmini-laboratory.tistory.com/82) <br>
 [2023/5/30 - 프로세스, 스레드, 멀티태스킹, 멀티스레딩, 멀티프로세싱, 멀티프로그래밍 정리하기](https://jungmini-laboratory.tistory.com/81) <br>
-[2023/5/30 - MySQL 쿼리 실행 구조 이해 해보기](https://jungmini-laboratory.tistory.com/80) <br>
-[2023/5/30 - 이진 트리 개념 이해하기](https://jungmini-laboratory.tistory.com/79) <br>
-[2023/5/30 - 핵심 코틀린프로그래밍 연습문제 풀이 6장 제네릭](https://jungmini-laboratory.tistory.com/78) <br>
-[2023/5/30 - 핵심 코틀린 프로그래밍 5장 연습문제 풀이 예외](https://jungmini-laboratory.tistory.com/77) <br>

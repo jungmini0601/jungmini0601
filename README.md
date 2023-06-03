@@ -20,13 +20,13 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/2 - 동기화, 경쟁 조건, 임계 영역 이해하기](https://jungmini-laboratory.tistory.com/94) <br>
+[2023/6/2 - 데이터 조회 2편 - SUBQUERY](https://jungmini-laboratory.tistory.com/93) <br>
+[2023/6/2 - 데이터 조회 1편 - 기본 SELECT](https://jungmini-laboratory.tistory.com/92) <br>
+[2023/6/2 - INSERT, UPDATE, DELETE 정리](https://jungmini-laboratory.tistory.com/91) <br>
 [2023/6/1 - SQL 개념과 DDL](https://jungmini-laboratory.tistory.com/90) <br>
 [2023/6/1 - 코틀린 이진 탐색 트리 구현하기](https://jungmini-laboratory.tistory.com/89) <br>
 [2023/6/1 - 핵심 코틀린 프로그래밍 7장 연습 문제 풀이 널 가능성](https://jungmini-laboratory.tistory.com/88) <br>
 [2023/6/1 - CPU bound 그리고 IO bound, 스레드 개수 이해하기](https://jungmini-laboratory.tistory.com/87) <br>
 [2023/5/31 - 관계형 데이터베이스, 관계, 기본키, 외래키](https://jungmini-laboratory.tistory.com/86) <br>
 [2023/5/31 - 데이터 베이스 입문](https://jungmini-laboratory.tistory.com/85) <br>
-[2023/5/31 - Context Switching 정리](https://jungmini-laboratory.tistory.com/84) <br>
-[2023/5/30 - 프로토콜과 OSI 7layer](https://jungmini-laboratory.tistory.com/83) <br>
-[2023/5/30 - 네트워크, 인터넷, 인터넷의 동작 방식](https://jungmini-laboratory.tistory.com/82) <br>
-[2023/5/30 - 프로세스, 스레드, 멀티태스킹, 멀티스레딩, 멀티프로세싱, 멀티프로그래밍 정리하기](https://jungmini-laboratory.tistory.com/81) <br>

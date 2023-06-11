@@ -20,6 +20,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/10 - 일급 컬렉션의 필요성 이해하기](https://jungmini-laboratory.tistory.com/110) <br>
+[2023/6/10 - ParameterizedTest를 이용하여 테스트 코드 중복 제거하기](https://jungmini-laboratory.tistory.com/109) <br>
 [2023/6/10 - 트랜잭션과 ACID](https://jungmini-laboratory.tistory.com/108) <br>
 [2023/6/7 - 정규화를 잘못하면 발생할 수 있는 문제점](https://jungmini-laboratory.tistory.com/107) <br>
 [2023/6/7 - MVCC 이해하기](https://jungmini-laboratory.tistory.com/106) <br>
@@ -28,5 +30,3 @@
 [2023/6/6 - Stored Function](https://jungmini-laboratory.tistory.com/103) <br>
 [2023/6/6 - 데이터 조회 5편 - group by, aggregate function, order by](https://jungmini-laboratory.tistory.com/102) <br>
 [2023/6/4 - 핵심 코틀린 프로그래밍 12장 연습문제 풀이 - 함수 심화](https://jungmini-laboratory.tistory.com/101) <br>
-[2023/6/4 - 핵심 코틀린 프로그래밍 11장 연습문제 풀이 - 제어구조 심화](https://jungmini-laboratory.tistory.com/100) <br>
-[2023/6/4 - 핵심 코틀린 프로그래밍 10장 연습문제 풀이 - 변수 선언과 타입 심화](https://jungmini-laboratory.tistory.com/99) <br>

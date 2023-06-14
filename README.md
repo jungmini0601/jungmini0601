@@ -20,13 +20,13 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/13 - JDBC 이해하기](https://jungmini-laboratory.tistory.com/117) <br>
+[2023/6/13 - CGI 프로그램과 서블릿 이해하기](https://jungmini-laboratory.tistory.com/116) <br>
+[2023/6/13 - 데드락과 해결 방법](https://jungmini-laboratory.tistory.com/115) <br>
+[2023/6/13 - DB 동시성 이론 recoverability](https://jungmini-laboratory.tistory.com/114) <br>
 [2023/6/12 - WAS 이해하기](https://jungmini-laboratory.tistory.com/113) <br>
 [2023/6/12 - DB 동시성 기초 이론 schedule과 serializability](https://jungmini-laboratory.tistory.com/112) <br>
 [2023/6/12 - 모니터 이해하기](https://jungmini-laboratory.tistory.com/111) <br>
 [2023/6/10 - 일급 컬렉션의 필요성 이해하기](https://jungmini-laboratory.tistory.com/110) <br>
 [2023/6/10 - ParameterizedTest를 이용하여 테스트 코드 중복 제거하기](https://jungmini-laboratory.tistory.com/109) <br>
 [2023/6/10 - 트랜잭션과 ACID](https://jungmini-laboratory.tistory.com/108) <br>
-[2023/6/7 - 정규화를 잘못하면 발생할 수 있는 문제점](https://jungmini-laboratory.tistory.com/107) <br>
-[2023/6/7 - MVCC 이해하기](https://jungmini-laboratory.tistory.com/106) <br>
-[2023/6/6 - Trigger](https://jungmini-laboratory.tistory.com/105) <br>
-[2023/6/6 - Stored Procedure](https://jungmini-laboratory.tistory.com/104) <br>

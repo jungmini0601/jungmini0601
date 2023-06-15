@@ -20,6 +20,7 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/14 - 트랜잭션 격리수준 이해하기](https://jungmini-laboratory.tistory.com/118) <br>
 [2023/6/13 - JDBC 이해하기](https://jungmini-laboratory.tistory.com/117) <br>
 [2023/6/13 - CGI 프로그램과 서블릿 이해하기](https://jungmini-laboratory.tistory.com/116) <br>
 [2023/6/13 - 데드락과 해결 방법](https://jungmini-laboratory.tistory.com/115) <br>
@@ -29,4 +30,3 @@
 [2023/6/12 - 모니터 이해하기](https://jungmini-laboratory.tistory.com/111) <br>
 [2023/6/10 - 일급 컬렉션의 필요성 이해하기](https://jungmini-laboratory.tistory.com/110) <br>
 [2023/6/10 - ParameterizedTest를 이용하여 테스트 코드 중복 제거하기](https://jungmini-laboratory.tistory.com/109) <br>
-[2023/6/10 - 트랜잭션과 ACID](https://jungmini-laboratory.tistory.com/108) <br>

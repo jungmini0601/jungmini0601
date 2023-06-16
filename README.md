@@ -20,6 +20,7 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/15 - Spring Boot의 장점과 특징](https://jungmini-laboratory.tistory.com/119) <br>
 [2023/6/14 - 트랜잭션 격리수준 이해하기](https://jungmini-laboratory.tistory.com/118) <br>
 [2023/6/13 - JDBC 이해하기](https://jungmini-laboratory.tistory.com/117) <br>
 [2023/6/13 - CGI 프로그램과 서블릿 이해하기](https://jungmini-laboratory.tistory.com/116) <br>
@@ -29,4 +30,3 @@
 [2023/6/12 - DB 동시성 기초 이론 schedule과 serializability](https://jungmini-laboratory.tistory.com/112) <br>
 [2023/6/12 - 모니터 이해하기](https://jungmini-laboratory.tistory.com/111) <br>
 [2023/6/10 - 일급 컬렉션의 필요성 이해하기](https://jungmini-laboratory.tistory.com/110) <br>
-[2023/6/10 - ParameterizedTest를 이용하여 테스트 코드 중복 제거하기](https://jungmini-laboratory.tistory.com/109) <br>

@@ -20,6 +20,8 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/6/17 - Kotlin JPA 활용하면서 불편했던 점(캡슐화, 설계 강제)](https://jungmini-laboratory.tistory.com/121) <br>
+[2023/6/17 - PK는 어떻게 골라야 할까? (auto_increment vs uuid)](https://jungmini-laboratory.tistory.com/120) <br>
 [2023/6/15 - Spring Boot의 장점과 특징](https://jungmini-laboratory.tistory.com/119) <br>
 [2023/6/14 - 트랜잭션 격리수준 이해하기](https://jungmini-laboratory.tistory.com/118) <br>
 [2023/6/13 - JDBC 이해하기](https://jungmini-laboratory.tistory.com/117) <br>
@@ -28,5 +30,3 @@
 [2023/6/13 - DB 동시성 이론 recoverability](https://jungmini-laboratory.tistory.com/114) <br>
 [2023/6/12 - WAS 이해하기](https://jungmini-laboratory.tistory.com/113) <br>
 [2023/6/12 - DB 동시성 기초 이론 schedule과 serializability](https://jungmini-laboratory.tistory.com/112) <br>
-[2023/6/12 - 모니터 이해하기](https://jungmini-laboratory.tistory.com/111) <br>
-[2023/6/10 - 일급 컬렉션의 필요성 이해하기](https://jungmini-laboratory.tistory.com/110) <br>

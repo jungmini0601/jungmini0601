@@ -20,6 +20,7 @@
 
 <h3>✏️ 최근 블로그 글</h3> 
 
+[2023/7/8 - CSRF란? 토큰 기반 인증과의 관계](https://jungmini-laboratory.tistory.com/125) <br>
 [2023/7/1 - 6월 회고](https://jungmini-laboratory.tistory.com/124) <br>
 [2023/7/1 - 강박에 관하여(feat. 개발 실력)](https://jungmini-laboratory.tistory.com/123) <br>
 [2023/6/17 - Kotlin JPA 활용하면서 불편했던 점(캡슐화, 설계 강제)](https://jungmini-laboratory.tistory.com/121) <br>
@@ -29,4 +30,3 @@
 [2023/6/13 - JDBC 이해하기](https://jungmini-laboratory.tistory.com/117) <br>
 [2023/6/13 - CGI 프로그램과 서블릿 이해하기](https://jungmini-laboratory.tistory.com/116) <br>
 [2023/6/13 - 데드락과 해결 방법](https://jungmini-laboratory.tistory.com/115) <br>
-[2023/6/13 - DB 동시성 이론 recoverability](https://jungmini-laboratory.tistory.com/114) <br>
